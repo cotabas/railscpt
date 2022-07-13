@@ -1,0 +1,2 @@
+class StaticMoController < ApplicationController
+end
